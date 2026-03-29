@@ -295,22 +295,3 @@ O sistema usa uma estratégia híbrida:
 
 ---
 
-## Próximos Passos
-
-Funcionalidades planejadas para as próximas iterações:
-
-- [ ] Registro de treino — aluno registra cargas no dia a dia
-- [ ] Backend real — substituir dados mockados por API REST
-- [ ] Autenticação com JWT — sessão persistente com token
-- [ ] Upload de foto — avatar do aluno e do personal
-- [ ] Exportar ficha em PDF — imprimir protocolo de treino
-- [ ] Notificações — lembrete de próxima sessão
-- [ ] Avaliação física — formulário para registrar novas medidas
-- [ ] Multi-tenant — separação real de dados por personal
-- [ ] Layout responsivo para mobile
-
----
-
-## Licença
-
-Projeto desenvolvido para fins de demonstração. Sem licença de uso definida.
